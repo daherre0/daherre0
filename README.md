@@ -2,7 +2,12 @@
 
 <h1>Hi... I'm Diego <a href="#"><a/><img src="https://user-images.githubusercontent.com/your-image-url-here.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 
-My name is Diego, and I'm a **Full Stack** web developer with the following key aptitudes:
+My name is Diego, and I'm a **Full Stack** web developer.
+
+### **Languages and Tools:**  
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow,angularjs,angular2,jquery,python,django,fastapi,mysql,postgresql,reactnative,vercel,nativehtml,css,tailwindcss,javascript,typescript,materialui,windows10,linux,docker,winscp,dbeaver,wampserver,awsamazonlinuxsshscripting,java,springboot,trello,jira,oracle,mongodb,ci/cd,infrastructure,documentationascode&perline=13)](#)
+
+ <!-- with the following key aptitudes:
 
 - Learning unquenchably thirsty.
 - English language enthusiast (C1-level).
@@ -36,7 +41,7 @@ My name is Diego, and I'm a **Full Stack** web developer with the following key 
 ### Github Stats ⚡
 
  [![Diego's github stats](https://bad-apple-github-readme.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
+--> 
  [![Top languages](https://github-readme-your-username.vercel.app/api/top-langs/?username=your-github-username&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Diego's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=your-github-username&count_private=true&theme=blue-green&title_color=00b3ff)](#)
