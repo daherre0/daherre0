@@ -5,7 +5,7 @@
 My name is Diego, and I'm a **Full Stack** web developer.
 
 ### **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow,angular,jquery,python,django,fastapi,mysql,postgresql,vercel,html,css,tailwindcss,javascript,typescript,materialui,windows,linux,docker,dbeaver,wampserver,aws,ssh,java,springboot,trello,jira,oracle,mongodb,ci/cd,infrastructure,documentationascode&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow,angular,jquery,python,django,fastapi,mysql,postgresql,vercel,html,css,tailwindcss,javascript,typescript,materialui,linux,docker,aws,ssh,php,java,spring,oracle,mongodb&perline=13)](#)
 
  <!-- with the following key aptitudes:
 
