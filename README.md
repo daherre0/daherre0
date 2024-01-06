@@ -43,8 +43,8 @@ My name is Diego, and I'm a **Full Stack** web developer.
  [![Diego's github stats](https://bad-apple-github-readme.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
  [![Top languages](https://github-readme-your-username.vercel.app/api/top-langs/?username=your-github-username&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
---> 
 [![Diego's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=your-github-username&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+--> 
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
