@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1>Hi... I'm Diego <a href="#"><a/><img src="https://user-images.githubusercontent.com/your-image-url-here.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
+<h1>Hi... I'm Diego <a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
 
 My name is Diego, and I'm a **Full Stack** web developer.
 
