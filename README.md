@@ -2,8 +2,9 @@
 
 My name is Diego, and I'm a **Full Stack** web developer.
 
-### **Languages and Tools:**  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwind,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow,angular,jquery,python,django,fastapi,mysql,postgresql,vercel,html,css,tailwindcss,typescript,materialui,linux,docker,aws,php,java,spring,mongodb&perline=13)](#)
+### Languages and Tools
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,ts,nextjs,express,nodejs,mongodb,firebase,git,github,vscode,jest,postman,angular,jquery,python,django,fastapi,mysql,postgresql,vercel,mui,linux,docker,aws,php,java,spring)
+
 
  <!-- with the following key aptitudes:
 
